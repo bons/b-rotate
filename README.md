@@ -1,6 +1,6 @@
 # b-rotate
 
-An angular module to add css trotate to elements
+An angular module to add css rotate to elements
 
 ## Getting Started
 _(Coming soon)_

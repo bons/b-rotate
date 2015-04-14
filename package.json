@@ -1,6 +1,6 @@
 {
   "name": "b-rotate",
-  "description": "An angular module to add css trotate to elements",
+  "description": "An angular module to add css rotate to elements",
   "version": "0.1.0",
   "homepage": "https://github.com/bons/b-rotate",
   "author": {
