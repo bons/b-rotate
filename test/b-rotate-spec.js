@@ -28,7 +28,7 @@ describe('Test Suite: bRotate', function()
   it('should be awsome', function()
   {
     var body  = document.querySelector("body");
-    body.innerHTML = '<div b-rotate x="50" y="60" z="90"></div>';
+    body.innerHTML = '<div b-rotate x="50" y="60" z="90" ng-click="rotate()" style="background: black; width: 50px; height: 50px;"></div>';
     $compile(body)(scope);
 
 
